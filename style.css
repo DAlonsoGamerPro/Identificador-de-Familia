@@ -1,0 +1,20 @@
+body
+{
+    background: linear-gradient(rgb(255, 0, 0) 0%, rgb(175, 1, 255) 100%);
+    font-size: 22px;
+    color: rgb(51, 255, 0);
+}
+
+#boton1
+{
+    background-color: rgb(43, 122, 226);
+    color: rgb(0, 225, 255);
+    border-color: rgb(0, 4, 255);
+}
+
+#boton2
+{
+    background-color: rgb(43, 122, 226);
+    color: rgb(0, 225, 255);
+    border-color: rgb(0, 4, 255);
+}
